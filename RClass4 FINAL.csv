@@ -1,0 +1,69 @@
+ID,AGE,SEX,RACE,EMP_STAT,EDUC,MARITAL_STAT,MAC_PC,CPQ_SCORE,DR_DISC,INFO_WHOM,CAREGIVING,MHLC_SCORED,WEBSITES_PREFERRED,PRE_EHEALS_SCORE,POST_EHEALS_SCORE,PRE_ADKS_SCORE,POST_ADKS_SCORE,HONCODE
+OAS006,64,Female,White,Working part-time,Bachelor's degree,Single/never married,Mac,5,Yes,Myself,No,22,Naturalnews.com,32,32,24,25,Yes
+OAS007,69,Female,White,Retired,Graduate degree,Married,Mac,4.14,Yes,Myself,No,26,Naturalnews.com,33,34,28,29,Yes
+OAS008,69,Male,White,Working full-time,Bachelor's degree,Married,PC,4.43,No,Both,No,33,Medicalnewstoday.com,27,29,28,26,Yes
+OAS009,74,Female,White,Working part-time,Graduate degree,Single/never married,Mac,4.86,Yes,Myself,Yes,19,Naturalnews.com,32,36,22,24,Yes
+OAS010,63,Female,White,Unemployed,Some College,Divorced,PC,4.5,Yes,Myself,No,28,Naturalnews.com,34,32,22,27,Yes
+OAS011,68,Male,White,Retired,Graduate degree,Married,Mac,4.86,Yes,Myself,No,23,Naturalnews.com,39,37,23,25,No
+OAS013,73,Male,White,Retired,Bachelor's degree,Married,Mac,4.71,Yes,Someone else,No,19,Medicalnewstoday.com,31,31,27,27,No
+OAS014,83,Female,White,Retired,HS,Widowed,PC,4.14,No,Myself,No,23,Naturalnews.com,27,31,21,22,Yes
+OAS015,67,Male,White,Retired,Graduate degree,Married,PC,5,Yes,Myself,No,20,Medicalnewstoday.com,40,40,21,24,No
+OAS016,70,Female,"Asian,White",Retired,Some College,Divorced,PC,4.71,Yes,Myself,No,26,Medicalnewstoday.com,31,31,25,29,Yes
+OAS017,75,Male,White,Retired,Bachelor's degree,Married,Mac,4.86,Yes,Myself,No,25,Naturalnews.com,35,35,22,25,No
+OAS018,50,Female,Black,Working part-time,Graduate degree,Single/never married,Mac,5,Yes,Myself,No,30,Naturalnews.com,40,40,23,30,Yes
+OAS019,80,Female,White,Working part-time,Bachelor's degree,Divorced,PC,4,Yes,Both,No,24,Naturalnews.com,32,32,27,26,Yes
+OAS020,79,Female,White,Working part-time,Bachelor's degree,Married,PC,4.14,No,Both,No,22,Naturalnews.com,29,34,26,27,Yes
+OAS021,68,Male,White,Retired,Graduate degree,Married,Mac,4.43,Yes,Myself,No,21,Medicalnewstoday.com,31,30,26,29,No
+OAS022,74,Female,Black,Retired,Some College,Divorced,Mac,5,Yes,Myself,No,33,Naturalnews.com,39,40,21,22,Yes
+OAS023,72,Male,White,Retired,Some College,Married,PC,4.29,Yes,Myself,No,25,Medicalnewstoday.com,31,31,25,28,No
+OAS024,72,Female,White,Retired,Bachelor's degree,Divorced,Mac,4.86,Yes,Myself,Yes,24,Naturalnews.com,34,36,26,28,Yes
+OAS025,56,Female,White,Working full-time,Graduate degree,Married,Mac,5,Yes,Myself,No,25,Naturalnews.com,27,26,19,22,Yes
+OAS026,50,Male,Black,Working full-time,Bachelor's degree,Divorced,Mac,5,Yes,Both,No,31,Medicalnewstoday.com,40,40,21,30,Yes
+OAS027,51,Male,White,Working full-time,Graduate degree,Married,Mac,4.88,Yes,Both,Yes,22,Naturalnews.com,40,40,28,27,Yes
+OAS028,53,Male,Black,Unemployed,Some College,Single/never married,Mac,4.88,Yes,Both,Yes,30,Naturalnews.com,26,31,23,25,Yes
+OAS029,55,Female,White,Working full-time,Graduate degree,Married,Mac,5,No,Myself,No,25,Medicalnewstoday.com,24,26,28,27,Yes
+OAS030,61,Female,White,Unemployed,Graduate degree,Seperated,Mac,4,Yes,Myself,No,27,Naturalnews.com,37,35,21,25,No
+OAS031,79,Male,White,Retired,Graduate degree,Married,PC,5,Yes,Myself,No,30,Medicalnewstoday.com,36,32,22,25,Yes
+OAS032,54,Female,Black,Working full-time,Bachelor's degree,Divorced,PC,5,No,Myself,No,33,Naturalnews.com,40,40,20,27,Yes
+OAS033,63,Female,White,Working part-time,Bachelor's degree,Single/never married,Mac,4.86,Yes,Both,No,28,Naturalnews.com,30,31,23,27,No
+OAS034,88,Female,White,Retired,Bachelor's degree,Divorced,PC,3.86,No,Myself,No,32,Naturalnews.com,29,23,21,24,No
+OAS035,64,Female,Black,Unemployed,Some College,Single/never married,PC,5,Yes,Both,Yes,24,Medicalnewstoday.com,25,25,20,24,No
+OAS037,75,Female,White,Retired,Graduate degree,Married,Mac,4.71,Yes,Someone else,No,17,Naturalnews.com,32,28,24,28,No
+OAS038,60,Female,White,Working part-time,Graduate degree,Married,PC,4.75,Yes,Myself,No,21,Naturalnews.com,35,36,25,26,No
+OAS039,75,Female,White,Retired,Graduate degree,Married,Mac,4.86,No,Myself,No,13,Naturalnews.com,26,26,25,26,No
+OAS040,77,Male,White,Retired,Bachelor's degree,Married,PC,4.29,No,Myself,No,21,Naturalnews.com,28,29,23,24,Yes
+OAS041,52,Female,White,Working full-time,Graduate degree,Married,Mac,4.88,No,Myself,No,31,Naturalnews.com,32,32,26,26,No
+OAS042,54,Female,White,Working full-time,Bachelor's degree,Divorced,PC,5,Yes,Myself,No,23,Medicalnewstoday.com,35,35,27,26,No
+OAS043,51,Female,White,Working full-time,Bachelor's degree,Married,PC,4,Yes,Myself,Yes,28,Naturalnews.com,27,27,24,25,Yes
+OAS044,50,Female,White,Working full-time,Bachelor's degree,Divorced,Mac,4.75,Yes,Myself,No,30,Naturalnews.com,40,40,22,27,No
+OAS045,67,Female,White,Retired,Bachelor's degree,Widowed,PC,4.75,Yes,Both,Yes,22,Medicalnewstoday.com,33,32,26,25,No
+OAS046,78,Male,White,Retired,Bachelor's degree,Widowed,PC,2,Yes,Myself,No,26,Medicalnewstoday.com,23,23,20,24,Yes
+OAS048,64,Male,White,Working full-time,Bachelor's degree,Married,PC,4.75,No,Myself,No,25,Medicalnewstoday.com,35,40,23,22,No
+OAS049,72,Male,White,Retired,Bachelor's degree,Married,PC,4.29,Yes,Both,No,20,Medicalnewstoday.com,29,30,28,30,No
+OAS050,76,Male,White,Retired,Bachelor's degree,Married,PC,5,Yes,Myself,No,13,Medicalnewstoday.com,37,38,22,27,No
+OAS051,78,Male,White,Retired,Graduate degree,Married,PC,2,Yes,Someone else,No,22,Naturalnews.com,40,40,22,24,No
+OAS052,69,Male,White,Working full-time,Bachelor's degree,Married,PC,4.86,Yes,Myself,No,15,Medicalnewstoday.com,32,32,26,27,No
+OAS053,69,Male,White,Retired,Bachelor's degree,Single/never married,PC,5,No,Myself,No,33,Medicalnewstoday.com,30,36,23,25,No
+OAS054,61,Male,White,Retired,Some College,Divorced,Mac,5,Yes,Both,No,25,Naturalnews.com,39,39,26,27,No
+OAS055,60,Male,White,Working full-time,Bachelor's degree,Married,Mac,4.5,Yes,Myself,No,21,Medicalnewstoday.com,29,28,26,28,No
+OAS056,87,Male,White,Retired,Graduate degree,Widowed,PC,3.29,No,Myself,No,23,Medicalnewstoday.com,21,21,25,22,
+OAS057,77,Female,White,Retired,Bachelor's degree,Widowed,PC,3.86,No,Myself,No,30,Medicalnewstoday.com,26,31,21,24,No
+OAS058,78,Female,White,Retired,Graduate degree,Divorced,PC,3,Yes,Myself,No,33,Medicalnewstoday.com,35,39,28,28,No
+OAS059,72,Female,Black,Retired,Graduate degree,Single/never married,PC,4.25,Yes,Myself,No,24,Medicalnewstoday.com,30,35,28,28,Yes
+OAS060,95,Female,White,Retired,Graduate degree,Partnered but not married,PC,3,Yes,Myself,Yes,28,Naturalnews.com,24,24,23,26,No
+OAS061,81,Female,White,Retired,Bachelor's degree,Widowed,Mac,4.43,No,Myself,No,27,Medicalnewstoday.com,27,30,23,29,No
+OAS062,89,Female,White,Retired,Bachelor's degree,Widowed,PC,4.14,No,Myself,No,23,Naturalnews.com,30,30,23,22,
+OAS063,72,Male,White,Retired,Some College,Married,PC,4.57,Yes,Myself,Yes,23,Medicalnewstoday.com,34,32,24,27,No
+OAS064,56,Female,White,Retired,Graduate degree,Married,Mac,5,Yes,Myself,No,31,Medicalnewstoday.com,29,31,22,27,Yes
+OAS065,76,Male,White,Retired,Bachelor's degree,Married,Mac,2,Yes,Myself,No,36,Naturalnews.com,33,40,22,25,Yes
+OAS066,83,Female,White,Retired,Bachelor's degree,Married,PC,4.29,Yes,Both,No,21,Medicalnewstoday.com,28,28,27,25,No
+OAS067,69,Female,White,Retired,Bachelor's degree,Married,PC,4.86,Yes,Myself,No,23,Medicalnewstoday.com,25,29,27,29,No
+OAS068,76,Female,White,Retired,HS,Widowed,PC,1,Yes,Myself,No,23,Naturalnews.com,28,28,19,30,
+OAS069,82,Male,White,Retired,Graduate degree,Married,PC,4.86,Yes,Both,No,20,Medicalnewstoday.com,32,29,28,29,No
+OAS070,71,Female,Black,Retired,Graduate degree,Married,PC,5,Yes,Myself,No,27,Naturalnews.com,35,38,23,26,No
+OAS071,77,Male,White,Retired,Bachelor's degree,Married,PC,2,Yes,Myself,No,23,Medicalnewstoday.com,33,27,22,24,No
+OAS072,73,Female,Black,Retired,Some College,Married,PC,4.14,No,Myself,No,21,Medicalnewstoday.com,25,29,22,25,No
+OAS073,78,Male,White,Retired,Some College,Married,PC,4.57,Yes,Myself,No,32,Naturalnews.com,31,38,27,27,No
+OAS074,72,Male,White,Retired,Graduate degree,Married,PC,4.57,Yes,Myself,No,19,Naturalnews.com,28,31,28,28,Yes
+OAS076,67,Male,White,Retired,Graduate degree,Married,Mac,4,Yes,Myself,No,23,Medicalnewstoday.com,33,33,30,28,No
+OAS077,67,Female,White,Retired,Graduate degree,Married,PC,4,Yes,Myself,No,19,Medicalnewstoday.com,38,36,24,28,No
